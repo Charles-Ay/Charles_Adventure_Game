@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/opencsv-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-beanutils-1.9.4-bin/commons-beanutils-1.9.4/commons-beanutils-1.9.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-collections4-4.4-bin/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-lang3-3.11-bin/commons-lang3-3.11/commons-lang3-3.11-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/charl/Documents/Programming/Java/Programs/Adventure_Game/add-ons/commons-text-1.9-bin/commons-text-1.9/commons-text-1.9-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
